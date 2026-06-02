@@ -68,65 +68,71 @@ CloudFunFacts/
 
 ## Front-End
 
-Tela inicial da aplicação:
+### Tela inicial da aplicação
 
-Front-End Inicial
+![Front-End Inicial](Screenshots/01-frontend-inicial.png)
 
-Exemplo de curiosidade gerada:
+### Exemplo de curiosidade gerada
 
-Front-End Funcionando
+![Curiosidade RDS](Screenshots/02-curiosidade-rds.png)
+
+![Curiosidade CloudFront](Screenshots/03-curiosidade-cloudfront.png)
+
+![Curiosidade Serverless](Screenshots/04-curiosidade-serverless.png)
+
+![Curiosidade Netflix](Screenshots/05-curiosidade-netflix.png)
 
 ---
 
 ## AWS Lambda
 
-Visão geral da função Lambda:
+### Visão geral da função Lambda
 
-Lambda Overview
+![Lambda Overview](Screenshots/aws/06-lambda-overview.png)
 
-Teste executado com sucesso:
+### Teste executado com sucesso
 
-Lambda Test
+![Lambda Test](Screenshots/aws/07-lambda-test-success.png)
 
 ---
 
 ## API Gateway
 
-Rota GET da API:
+### Rota GET da API
 
-API Gateway Route
+![API Gateway Route](Screenshots/aws/08-api-gateway-route.png)
 
-Stage publicado:
+### Stage publicado
 
-API Gateway Stage
+![API Gateway Stage](Screenshots/aws/13-api-gateway-stage.png)
 
 ---
 
 ## DynamoDB
 
-Tabela CloudFacts:
+### Tabela CloudFacts
 
-DynamoDB Table
+![DynamoDB Table](Screenshots/aws/10-dynamodb-table.png)
 
-Itens armazenados:
+### Itens armazenados
 
-DynamoDB Items
+![DynamoDB Items](Screenshots/aws/09-dynamodb-items.png)
 
 ---
 
 ## Amazon Bedrock
 
-Inference Profile utilizado:
+### Inference Profile utilizado
 
-Bedrock Inference Profile
+![Bedrock Inference Profile](Screenshots/aws/11-bedrock-inference-profile.png)
 
 ---
 
 ## CloudWatch
 
-Logs da aplicação:
+### Logs da aplicação
 
-CloudWatch Logs
+![CloudWatch Logs](Screenshots/aws/12-cloudwatch-logs.png)
 
 ---
 
