@@ -44,23 +44,30 @@ Usuário → Front-End → API Gateway → AWS Lambda → DynamoDB + Amazon Bedr
 
 # 📁 Estrutura do Projeto
 
+```text
 CloudFunFacts/
-
 ├── FrontEnd/
-
 │   └── index.html
-
 ├── Lambda/
-
 │   └── lambda_function.py
-
 ├── Screenshots/
-
-│   ├── frontend/
-
+│   ├── 00-api-json.png
+│   ├── 01-frontend-inicial.png
+│   ├── 02-curiosidade-rds.png
+│   ├── 03-curiosidade-cloudfront.png
+│   ├── 04-curiosidade-serverless.png
+│   ├── 05-curiosidade-netflix.png
 │   └── aws/
-
+│       ├── 06-lambda-overview.png
+│       ├── 07-lambda-test-success.png
+│       ├── 08-api-gateway-route.png
+│       ├── 09-dynamodb-items.png
+│       ├── 10-dynamodb-table.png
+│       ├── 11-bedrock-inference-profile.png
+│       ├── 12-cloudwatch-logs.png
+│       └── 13-api-gateway-stage.png
 └── README.md
+```
 
 ---
 
