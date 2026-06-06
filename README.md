@@ -14,8 +14,6 @@ O sistema busca curiosidades armazenadas no DynamoDB, envia o conteúdo para o A
 
 # 🏗️ Arquitetura
 
-Fluxo da aplicação:
-
 ![Diagrama de Arquitetura](Screenshots/arquitetura.png)
 ---
 
