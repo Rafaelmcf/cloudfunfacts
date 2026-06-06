@@ -16,8 +16,7 @@ O sistema busca curiosidades armazenadas no DynamoDB, envia o conteúdo para o A
 
 Fluxo da aplicação:
 
-Usuário → Front-End → API Gateway → AWS Lambda → DynamoDB + Amazon Bedrock → Resposta ao Usuário
-
+![Diagrama de Arquitetura](Screenshots/arquitetura.png)
 ---
 
 # 🚀 Serviços AWS Utilizados
