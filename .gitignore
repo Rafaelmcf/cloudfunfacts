@@ -1,1 +1,30 @@
+# Mac
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# AWS - NUNCA subir esses arquivos!
+.aws/credentials
+.aws/config
+*.pem
+*.key
+aws-exports.js
+
+# Variáveis de ambiente - contém senhas e chaves!
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+logs/
